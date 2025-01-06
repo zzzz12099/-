@@ -1,5 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=368x208
-http://carmeltv.live:80/live/Muqtada/Muqtada200/98430.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=720x450
 http://carmeltv.live:80/live/Muqtada/Muqtada200/98431.m3u8
