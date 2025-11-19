@@ -1,8 +1,3 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=250x360
-https://qwbs-181.didiworldegypt.com/live/204112_.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=720x480
-https://chat-30.chatdidi.com/live/906544_.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=1080x1080
-http://chat-30.chatdidi.com/live/594040_.m3u8
-
+http://splus.smartres.net:80/live/65787/54353/18056.m3u8
