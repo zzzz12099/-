@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080
-http://splustv.me:80/live/same3253/sat22255/141434.m3u8
+http://splustv.me:80/live/same3253/sat22255/100952.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1280x720
-http://splustv.me:80/live/same3253/sat22255/65694.m3u8
+http://splustv.me:80/live/same3253/sat22255/100948.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=854x480
-http://splustv.me:80/live/same3253/sat22255/141443.m3u8
+http://splustv.me:80/live/same3253/sat22255/100944.m3u8
